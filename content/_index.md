@@ -14,9 +14,8 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        Wowchemy
-        Research Group Test Paper
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+        Add this section to modify page.並且測唷中文The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
