@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 JinDiamond 精鑽股份有限公司
+        content: 磁控濺射專家
         align: center
         background:
           image:
